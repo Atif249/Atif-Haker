@@ -21,3 +21,9 @@ cd Atif-Haker
 ls 
 
 bash Masoom_Atif.sh
+
+__________________________________________________
+
+# Uninstall On Termux with code 
+
+rm -rf zphisher
