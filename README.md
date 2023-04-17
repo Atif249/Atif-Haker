@@ -26,4 +26,4 @@ __________________________________________________
 
 # Uninstall On Termux with code 
 
-rm -rf zphisher
+rm -rf Atif-Haker
